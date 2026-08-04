@@ -1,12 +1,12 @@
 {
   "payload": {
     "hwid": "57ba52dda9d68bb2d53a0910489770861be4a8a2a92b6a6f4e4025f922661825",
-    "status": "active",
+    "status": "revoked",
     "exp": "never",
-    "iat": "2026-08-04T08:11:48Z",
-    "seq": 1,
+    "iat": "2026-08-04T08:12:23Z",
+    "seq": 2,
     "kid": "lic-1",
-    "reason": ""
+    "reason": "blocked by owner"
   },
-  "sig": "809a0a7dec774555cadda87afde0dffc7efd62e0d331e24ccb8cfff003c626ce96054d253539cda09d5d3f5c047c67582d31f450e04d1e09f710585b062c6c03"
+  "sig": "b4678b205d2bda785f01bf9e2ac700a3c6cc0403eb4d7c295cfa482eb08a38bde1beaa679d98858f8972bcf28a6dad8db89fad199535f0022fe1790c2274f607"
 }
