@@ -1,0 +1,12 @@
+{
+  "payload": {
+    "hwid": "280028be4b0b1dc0576385bbbf003930769fd232fb703669527bcf2b354c6662",
+    "status": "active",
+    "exp": "never",
+    "iat": "2026-08-07T08:56:32Z",
+    "seq": 1,
+    "kid": "lic-1",
+    "reason": ""
+  },
+  "sig": "de1556b9381f3acfeee4c7a90c681cc2b9b2d4c9d39bae4549352b82dc13065a1d69e73d2fa197d73d1f6d5ab152765f10ced22658a71d1660ca1cb4b58c7504"
+}
